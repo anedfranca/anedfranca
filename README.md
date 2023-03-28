@@ -1,8 +1,9 @@
 ### Ane França
 
 
-- I’m currently learning html,py,css
+- I’m currently learning HTML,PY,CSS
 - Pronouns: she,her
+- I'm 19
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anedfranca&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -13,7 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/021b4014178e3c743e4b0b2c6a0cd0ff.gif" width="80" height="80" border="100"  alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+ <img src="https://i.picasion.com/pic92/021b4014178e3c743e4b0b2c6a0cd0ff.gif" width="80" height="80" border  alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
 </div>
 
 <div> 
