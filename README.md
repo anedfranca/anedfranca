@@ -1,9 +1,8 @@
-### Ane França
+## Oiii eu sou Ane Dourado, apaixonada por programação e tecnologia!
+
+ 19y
 
 
-- I’m currently learning HTML,PY,CSS
-- Pronouns: she,her
-- I'm 19
 
 ![Anedfranca GitHub stats](https://github-readme-stats.vercel.app/api?username=anedfranca&show_icons=true&theme=radical&count_private=true)
 
