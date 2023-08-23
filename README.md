@@ -1,4 +1,4 @@
-## Oiii eu sou Ane França, apaixonada por programação e tecnologia!
+## Ane França
 
  I'm 19
 
