@@ -2,7 +2,6 @@
 
 Desenvolvedora beck-end
 
-
  Dev full stack
 
  I'm 20
