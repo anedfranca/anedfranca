@@ -1,8 +1,7 @@
-## Ane França
+##Ane França
 
 Desenvolvedora beck-end
-
- Dev full stack
+Ciência da computação // Dev full stack
 
  I'm 20
 
